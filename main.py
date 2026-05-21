@@ -16,7 +16,7 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 def in_autotests_we_trust(a, b):
     if a == b:
-        print('PASSED')
+        print('PASS')
     else:
         print('FAIL')
 
